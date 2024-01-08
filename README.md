@@ -57,3 +57,17 @@ Multiscale授業ｍの課題．
 - search_and_display_files メソッドを使用して、指定したディレクトリ内のファイルから特定のキーワードを検索し、該当する行を表示できる．大量のファイルの中から特定の情報を見つけるのが早くなった．
 - ファイルやディレクトリが見つからない場合や、その他のエラーが発生した場合にもエラーメッセージが表示されるので無駄が省ける．
 これにより、ファイルの管理や検索、コピーなどの基本的な操作を簡単に行えるようになった．特に、対話的なインターフェースを通じてユーザーとの直感的なやり取りができるため、ファイル関連の作業が効率的になった．
+
+## 参考文献
+> https://web-camp.io/magazine/archives/15103
+
+> https://blog.codecamp.jp/ruby-file-operation
+
+> https://www.sejuku.net/blog/14367
+
+> https://qiita.com/tetsu1026/items/47e1e43b103dc6138ed7
+
+> http://taustation.com/ruby-file-operation/
+
+> https://zenn.dev/kunosu/articles/7e01a31644575d0d50c2
+
